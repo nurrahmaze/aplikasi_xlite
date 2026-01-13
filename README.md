@@ -44,7 +44,7 @@ Aplikasi mobile versi ringan (*lite*) yang dirancang untuk memberikan performa c
 ![Detail](screenshot_detail.jpg)
 
 ### Notifikasi Aplikasi
-![Notifikasi](screenshot_notifikasi.jpg)
+![Notifikasi](screenshot_notif.jpg)
 
 ---
 
